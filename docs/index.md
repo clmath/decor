@@ -19,6 +19,8 @@ The decor project contains some classes and utilities that are not directly rela
 * [schedule](schedule.md) - A utility function to schedule a callback at the end of [micro-task](http://www.whatwg.org/specs/web-apps/current-work/multipage/webappapis.html#microtask).
 * [sniff](sniff.md) - Browser sniffing.
 
+http://www.whatwg.org/specs/web-apps/current-work/multipage/webappapis.md
+
 ## General information
 
 * [Decor architecture](architecture.md) - Notes on decor's design choices.
