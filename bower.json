@@ -1,6 +1,6 @@
 {
 	"name": "decor",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"dependencies": {
 		"requirejs": "2.1.x",
 		"requirejs-dplugins": "0.3.x",
